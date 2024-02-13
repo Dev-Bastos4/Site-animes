@@ -1,0 +1,10 @@
+.main-action {
+    display: inline-flex;
+    color: #381423;
+    font-size: 20px;
+    font-family: "Fira Code", Arial, sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+    margin-right: 30px;
+    padding-top: 16px;
+}   
